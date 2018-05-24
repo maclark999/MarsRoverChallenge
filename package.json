@@ -1,0 +1,16 @@
+{
+	"name": "MarsRoverChallenge",
+	"version": "1.0.0",
+	"description": "Mars Rover Challenge",
+	"main": "src/MarsRover.js",
+	"scripts": {
+		"test": "mocha",
+		"start": "src/MarsRover.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"expect": "^22.4.3",
+		"mocha": "^5.2.0"
+	}
+}
